@@ -5,7 +5,7 @@ from tkinter import *
 root = Tk()
 root.geometry('400x400')
 root.config(bg = 'SlateGray3')
-root.title('DataFlair-AddressBook')
+root.title('AddressBook')
 root.resizable(0,0)
 contactlist = [
     ['Parv Maheswari',  '0176738493'],
